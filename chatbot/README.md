@@ -1,4 +1,4 @@
-# Chatbot using Pytorch
+# Chatbot using PyTorch
 This code is an implementation of a simple chatbot for an e-commerce website using PyTorch. 
 The chatbot is trained on a dataset of intents in JSON format and uses natural language processing techniques to generate responses to user input.
 
