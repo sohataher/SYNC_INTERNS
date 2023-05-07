@@ -7,9 +7,8 @@ https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 
 ## Usage
 To run the code, you will need to have the following dependencies installed:
-
-    * Pandas
-    * NumPy
-    * Matplotlib
-    * Scikit-learn
-    * Keras
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+* Keras
